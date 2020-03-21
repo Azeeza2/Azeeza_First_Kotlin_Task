@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Azeeza First Kotlin Task</string>
+    <string name="action_settings">Settings</string>
+    <string name="text1">Full Name: BALOGUN Azeezat Bukola </string>
+    <string name="text2">Slack Username: Azeeza</string>
+    <string name="text3">Start.NG email address: balogunzzt@gmail.com</string>
+    <string name="text4">Tracks: Java, Kotlin</string>
+</resources>
